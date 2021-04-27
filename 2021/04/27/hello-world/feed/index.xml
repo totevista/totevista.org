@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/2021/04/27/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/2021/04/27/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>/2021/04/27/hello-world/</link>
-	<description>Please buy our bag</description>
-	<lastBuildDate>Tue, 27 Apr 2021 11:12:30 +0000</lastBuildDate>
+	<description>please buy bag</description>
+	<lastBuildDate>Tue, 27 Apr 2021 13:38:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -23,7 +23,7 @@
 		<link>/2021/04/27/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Tue, 27 Apr 2021 11:12:30 +0000</pubDate>
+		<pubDate>Tue, 27 Apr 2021 13:38:39 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.

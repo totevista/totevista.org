@@ -9,10 +9,10 @@
 
 <channel>
 	<title>totevista</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
-	<description>Please buy our bag</description>
-	<lastBuildDate>Tue, 27 Apr 2021 11:12:30 +0000</lastBuildDate>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>please buy bag</description>
+	<lastBuildDate>Tue, 27 Apr 2021 13:38:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/2021/04/27/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 27 Apr 2021 11:12:30 +0000</pubDate>
+		<pubDate>Tue, 27 Apr 2021 13:38:39 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
